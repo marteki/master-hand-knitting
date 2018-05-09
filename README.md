@@ -2,6 +2,8 @@
 
 Working through [the Knitting Guild of America (TKGA)'s Master Hand Knitting Program](https://tkga.org/certification/master-hand-knitting/). Collaboration with [@keelerr](https://github.com/keelerr).
 
+Current status: [our tracking board for working through Level 1](https://github.com/marteki/master-hand-knitting/projects/1)
+
 ## Potentially useful links
 
 * [TKGA Ravelry group](https://www.ravelry.com/groups/the-knitting-guild-association-tkga)
