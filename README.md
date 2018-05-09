@@ -1,6 +1,10 @@
 # master-hand-knitting
 
-Working through [the Knitting Guild of America's Master Hand Knitting Program](https://tkga.org/certification/master-hand-knitting/). Collaboration with [@keelerr](https://github.com/keelerr).
+Working through [the Knitting Guild of America (TKGA)'s Master Hand Knitting Program](https://tkga.org/certification/master-hand-knitting/). Collaboration with [@keelerr](https://github.com/keelerr).
+
+## Potentially useful links
+
+* [TKGA Ravelry group](http://www.ravelry.com/groups/tkga)
 
 ## Other geeky GitHub repos (with no relationship to this one)
 
