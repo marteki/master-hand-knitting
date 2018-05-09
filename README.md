@@ -4,7 +4,7 @@ Working through [the Knitting Guild of America (TKGA)'s Master Hand Knitting Pro
 
 ## Potentially useful links
 
-* [TKGA Ravelry group](http://www.ravelry.com/groups/tkga)
+* [TKGA Ravelry group](https://www.ravelry.com/groups/the-knitting-guild-association-tkga)
 
 ## Other geeky GitHub repos (with no relationship to this one)
 
